@@ -1,4 +1,4 @@
-package com.graphql.contact.graphqljavacontact;
+package com.graphql.contact;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
